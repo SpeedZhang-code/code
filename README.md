@@ -12,7 +12,7 @@ client.py --pcap /tmp/a.pcap --subnet 192.168.0.0/24
 
 ---
 
-筆記:CDIR、Argparse
+筆記:CIDR、Argparse
 
 ---
 
