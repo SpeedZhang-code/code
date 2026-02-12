@@ -44,9 +44,9 @@ OPTIONS<br>
 }
 ```
 
-# RPC - Error
+### RPC - Error
 
-### # Server is busy
+# Server is busy
 
 ```json
 {
