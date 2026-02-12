@@ -37,6 +37,21 @@ OPTIONS
   }
 }
 
+# RPC - Error
+
+### # Server is busy
+
+```json
+{
+  "e": {
+    "c": 2,
+    "m": "server busy"
+  }
+}
+
+
+
+
 
 <img width="960" height="540" alt="封包模擬" src="https://github.com/user-attachments/assets/af66004f-d94e-4cba-ad20-deb103ed5916" />
 
