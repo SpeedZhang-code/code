@@ -41,14 +41,14 @@ OPTIONS
 
 ### # Server is busy
 
-```json
+json
 {
   "e": {
     "c": 2,
     "m": "server busy"
   }
 }
-###
+```
 
 
 
