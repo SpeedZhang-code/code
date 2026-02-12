@@ -25,7 +25,17 @@ OPTIONS
 --pcap：讀取的 pcap 檔
 --subnet：Client IP subnet (default: 192.168.0.0/24)
 
+### JSON RPC Request:
 
+```json
+{
+  "v": 1,
+  "method": "pcap.replay",
+  "params": {
+    "speed": 1.0,
+    "subnet": "192.168.0.0/24"
+  }
+}
 
 
 <img width="960" height="540" alt="封包模擬" src="https://github.com/user-attachments/assets/af66004f-d94e-4cba-ad20-deb103ed5916" />
