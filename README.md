@@ -10,5 +10,17 @@ client.py --pcap /tmp/a.pcap --subnet 192.168.0.0/24
 3.client可以自己輸入pcap檔位置。<br>
 4.client可以自己輸入subnet網域，或是判斷誰是client_ip。<br>
 
+
+Server Usage<br>
+server.py [OPTIONS]
+<br><br>
+OPTIONS<br>
+--thread-num：同時處理請求的 Thread 數量<br>
+--process-num：啟動的 Worker Process 數量<br>
+--port：Server 監聽的起始 Port 號<br>
+
+
+
+
 <img width="960" height="540" alt="封包模擬" src="https://github.com/user-attachments/assets/af66004f-d94e-4cba-ad20-deb103ed5916" />
 
