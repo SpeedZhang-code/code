@@ -19,12 +19,14 @@ OPTIONS<br>
 --process-num：啟動的 Worker Process 數量<br>
 --port：Server 監聽的起始 Port 號<br>
 
-Client Usage
-client.py [OPTIONS]
-OPTIONS
---pcap：讀取的 pcap 檔
---subnet：Client IP subnet (default: 192.168.0.0/24)
+<br><br>
 
+Client Usage<br>
+client.py [OPTIONS]
+OPTIONS<br>
+--pcap：讀取的 pcap 檔<br>
+--subnet：Client IP subnet (default: 192.168.0.0/24)<br>
+<br>
 ### JSON RPC Request:
 
 ```json
