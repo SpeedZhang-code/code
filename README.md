@@ -11,6 +11,8 @@ client.py --pcap /tmp/a.pcap --subnet 192.168.0.0/24
 4.client可以自己輸入subnet網域，或是判斷誰是client_ip。<br>
 
 ---
+筆記:CDIR、Argparse
+---
 
 Server Usage<br>
 server.py [OPTIONS]
