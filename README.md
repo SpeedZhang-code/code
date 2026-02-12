@@ -5,10 +5,10 @@
 server.py --thread-num=10 --port 50000
 client.py --pcap /tmp/a.pcap --subnet 192.168.0.0/24
 
-1.server要有thread，告知Status，設置client連接的數量。
-2.server要有port的提供，決定client要用那個Port去連[50000-51000]。
-3.client可以自己輸入pcap檔位置。
-4.client可以自己輸入subnet網域，或是判斷誰是client_ip。
+1.server要有thread，告知Status，設置client連接的數量。<br>
+2.server要有port的提供，決定client要用那個Port去連[50000-51000]。<br>
+3.client可以自己輸入pcap檔位置。<br>
+4.client可以自己輸入subnet網域，或是判斷誰是client_ip。<br>
 
 <img width="960" height="540" alt="封包模擬" src="https://github.com/user-attachments/assets/af66004f-d94e-4cba-ad20-deb103ed5916" />
 
