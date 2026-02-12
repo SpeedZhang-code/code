@@ -19,8 +19,6 @@ OPTIONS<br>
 --process-num：啟動的 Worker Process 數量<br>
 --port：Server 監聽的起始 Port 號<br>
 
-<br><br>
-
 Client Usage<br>
 client.py [OPTIONS]
 OPTIONS<br>
