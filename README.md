@@ -38,6 +38,9 @@ OPTIONS<br>
 ### JSON RPC Request:
 
 ```json
+
+### JSON RPC Request:
+
 {
   "v": 1,
   "method": "pcap.replay",
@@ -46,7 +49,14 @@ OPTIONS<br>
     "subnet": "192.168.0.0/24"
   }
 }
+
+### JSON RPC Response:
+{"r": {"port": 50001, "task_id": "99b2-xf22"}}
+
 ```
+
+
+
 
 # RPC - Error
 
