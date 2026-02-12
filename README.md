@@ -36,12 +36,12 @@ OPTIONS<br>
     "subnet": "192.168.0.0/24"
   }
 }
-
+```
 # RPC - Error
 
 ### # Server is busy
 
-json
+```json
 {
   "e": {
     "c": 2,
